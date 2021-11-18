@@ -1,0 +1,13 @@
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\bin\Debug\netcoreapp3.1\StackQueue-uc2.exe
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\bin\Debug\netcoreapp3.1\StackQueue-uc2.deps.json
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\bin\Debug\netcoreapp3.1\StackQueue-uc2.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\bin\Debug\netcoreapp3.1\StackQueue-uc2.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\bin\Debug\netcoreapp3.1\StackQueue-uc2.dll
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\bin\Debug\netcoreapp3.1\StackQueue-uc2.pdb
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\obj\Debug\netcoreapp3.1\StackQueue-uc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\obj\Debug\netcoreapp3.1\StackQueue-uc2.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\obj\Debug\netcoreapp3.1\StackQueue-uc2.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\obj\Debug\netcoreapp3.1\StackQueue-uc2.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\obj\Debug\netcoreapp3.1\StackQueue-uc2.dll
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\obj\Debug\netcoreapp3.1\StackQueue-uc2.pdb
+C:\Users\VARUN KUMAR\source\repos\Day14\practice\StackQueue-uc2\StackQueue-uc2\obj\Debug\netcoreapp3.1\StackQueue-uc2.genruntimeconfig.cache
